@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main() {
     int a;
-    long b;   // equivalent to long int b;
-    long long c;  // equivalent to long long int c;
+    long b;
+    long long c;
     double e;
     long double f;
 
