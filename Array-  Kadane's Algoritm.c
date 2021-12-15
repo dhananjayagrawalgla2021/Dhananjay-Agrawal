@@ -14,12 +14,11 @@ int main ()
 	{
 	  n=0;
 	}
-	if(x[i]>n){
-	    max=x[i];
-	}
-	if(x[i]<n){
+	if(n>max){
 	    max=n;
 	}
+
+	
     }
     printf("%d", max);
   return 0;
